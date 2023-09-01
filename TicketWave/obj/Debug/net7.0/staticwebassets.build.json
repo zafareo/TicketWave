@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "oRsm+xx3ddjCn9ht830yLhesv0VwgqbMbfqH4gEScjo=",
+  "Source": "TicketWave",
+  "BasePath": "_content/TicketWave",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TicketWave\\wwwroot",
+      "Source": "TicketWave",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\TicketWave\\TicketWave\\wwwroot\\",
+      "BasePath": "_content/TicketWave",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\TicketWave\\TicketWave\\wwwroot\\swagger-ui\\custom.css",
+      "SourceId": "TicketWave",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\TicketWave\\TicketWave\\wwwroot\\",
+      "BasePath": "_content/TicketWave",
+      "RelativePath": "swagger-ui/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-ui\\custom.css"
+    }
+  ]
+}
